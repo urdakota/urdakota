@@ -1,9 +1,9 @@
 # Introduction
 ## About Me
+![My Stats](https://github-readme-stats.vercel.app/api?username=urdakota&show_icons=true&theme=radical)
 Hello! Im **urdakota** (Also known as **Moth**)
   - [ ] I'm a young developer who loves to learn new things!
   - [ ] My favorite thing to create right now is Gorilla Tag mods!
-![My Stats](https://github-readme-stats.vercel.app/api?username=urdakota&show_icons=true&theme=radical)
 
 ## Languages
 I program in languages like LUA, JS, and C# (X = I'm working with it, O = I'm not working with it)
